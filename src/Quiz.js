@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { useTheme, makeStyles } from "@material-ui/styles";
 let quizData = require("./quiz_data.json");
 
 class Quiz extends Component {
